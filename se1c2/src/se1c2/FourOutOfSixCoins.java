@@ -1,4 +1,4 @@
-//Henrik Sopart und Florian Klören, Demo, 12.11.2021 V.6.9
+//Henrik Sopart und Florian Klören, FourOutOfSixCoins, 12.11.2021 V.6.9
 
 package se1c2;
 import java.util.Arrays;
